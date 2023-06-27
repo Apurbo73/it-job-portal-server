@@ -1,0 +1,100 @@
+{
+    "jobs": [
+      {
+        "title": "DevOps Engineer",
+        "type": "Internship",
+        "salary": "25002",
+        "deadline": "2023-12-31",
+        "company": "Dorik",
+        "id": 1
+      },
+      {
+        "title": "Product Manager",
+        "type": "Remote",
+        "salary": "18000",
+        "deadline": "2023-12-31",
+        "company": "Staff Asia",
+        "id": 3
+      },
+      {
+        "title": "Social Media Manager",
+        "type": "Internship",
+        "salary": "20000",
+        "deadline": "2023-11-30",
+        "company": "Orix",
+        "id": 4
+      },
+      {
+        "title": "MERN Stack Developer",
+        "type": "Remote",
+        "salary": "35000",
+        "deadline": "2023-12-31",
+        "company": "Cefallo Bangladesh",
+        "id": 5
+      },
+      {
+        "title": "Full Stack Developer",
+        "type": "Internship",
+        "salary": "18000",
+        "deadline": "2023-12-31",
+        "company": "Dorik",
+        "id": 6
+      },
+      {
+        "title": "Game Developer",
+        "type": "Remote",
+        "salary": "18000",
+        "deadline": "2023-12-31",
+        "company": "Inverse AI",
+        "id": 7
+      },
+      {
+        "title": "Full Stack Developer",
+        "type": "Internship",
+        "salary": "18000",
+        "deadline": "2023-12-31",
+        "company": "W3 Technologies",
+        "id": 8
+      },
+      {
+        "title": "QA Engineer",
+        "type": "Full-Time",
+        "salary": "15000",
+        "company": "Authlab",
+        "deadline": "2023-12-31",
+        "id": 9
+      },
+      {
+        "title": "Web Developer",
+        "type": "Internship",
+        "salary": "40000",
+        "company": "Amigo's Outlet",
+        "deadline": "30.06.2023",
+        "id": 10
+      },
+      {
+        "title": "Game Developer",
+        "type": "Remote",
+        "salary": "35000",
+        "company": "Dorik",
+        "deadline": "30.06.2023",
+        "id": 11
+      },
+      {
+        "title": "Software Engineer",
+        "type": "Full-Time",
+        "salary": "55000",
+        "company": "Ceffalo Bangladesh",
+        "deadline": "15.07.23",
+        "id": 12
+      },
+      {
+        "title": "Software Engineer",
+        "type": "Remote",
+        "salary": "55000",
+        "company": "Ceffalo Bangladesh",
+        "deadline": "15.07.23",
+        "id": 13
+      }
+    ]
+  }
